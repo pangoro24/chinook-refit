@@ -1,0 +1,13 @@
+D:\working projects\Restful4Chinook\Restful4Chinook\bin\Debug\Restful4Chinook.exe.config
+D:\working projects\Restful4Chinook\Restful4Chinook\bin\Debug\Restful4Chinook.exe
+D:\working projects\Restful4Chinook\Restful4Chinook\bin\Debug\Restful4Chinook.pdb
+D:\working projects\Restful4Chinook\Restful4Chinook\bin\Debug\Newtonsoft.Json.dll
+D:\working projects\Restful4Chinook\Restful4Chinook\bin\Debug\Refit.dll
+D:\working projects\Restful4Chinook\Restful4Chinook\bin\Debug\Newtonsoft.Json.pdb
+D:\working projects\Restful4Chinook\Restful4Chinook\bin\Debug\Newtonsoft.Json.xml
+D:\working projects\Restful4Chinook\Restful4Chinook\bin\Debug\Refit.xml
+D:\working projects\Restful4Chinook\Restful4Chinook\obj\Debug\Restful4Chinook.csprojAssemblyReference.cache
+D:\working projects\Restful4Chinook\Restful4Chinook\obj\Debug\Restful4Chinook.csproj.CoreCompileInputs.cache
+D:\working projects\Restful4Chinook\Restful4Chinook\obj\Debug\Restful4Chinook.csproj.CopyComplete
+D:\working projects\Restful4Chinook\Restful4Chinook\obj\Debug\Restful4Chinook.exe
+D:\working projects\Restful4Chinook\Restful4Chinook\obj\Debug\Restful4Chinook.pdb
