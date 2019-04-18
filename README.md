@@ -1,6 +1,10 @@
 # chinook-refit
 A RESTful API demo console using C# and refit library for Chinook database
 
+
+![Output](https://github.com/pangoro24/chinook-refit/blob/master/images/img1.jpg "Test demo image")
+
+
 ## Goal:
 To consume a webAPI in C# using Refit library from a python tornado server 
 
